@@ -1,34 +1,51 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"zhang":
+  - firstname: ["Guoxi"]
+    url: https://guoxizhang.com/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"zhu":
+  - firstname: ["Song-Chun"]
+    url: http://www.stat.ucla.edu/~sczhu/
+  - firstname: ["Yixin"]
+    url: https://yzhu.io/
+  - firstname: ["Ziyu"]
+    url: https://zhuziyu-edward.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"wu":
+  - firstname: ["Rujie"]
+    url: https://joyjayng.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+  - firstname: ["Ying Nian"]
+    url: http://www.stat.ucla.edu/~ywu/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+  - firstname: ["Yuwei"]
+    url: https://wu-yuwei-bit.github.io/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"huang":
+  - firstname: ["Jiangyong"]
+    url: https://huangjy-pku.github.io/
+  - firstname: ["Siyuan"]
+    url: https://siyuanhuang.com/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"jia":
+  - firstname: ["Baoxiong"]
+    url: https://buzz-beater.github.io/
+  - firstname: ["Yunde"]
+    url: https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl
+
+"li":
+  - firstname: ["Puhao"]
+    url: https://xiaoyao-li.github.io/
+  - firstname: ["Pengxiang"]
+    url: https://pengxiang-li.github.io/
+
+"gao":
+  - firstname: ["Feng"]
+    url: https://fen9.github.io/
+  - firstname: ["Zhi"]
+    url: https://zhigao2017.github.io/
+
+"chen":
+  - firstname: ["Yixin"]
+    url: https://yixchen.github.io/
