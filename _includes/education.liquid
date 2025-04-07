@@ -1,22 +1,20 @@
-
-<div class="education-list">
-  {% for edu in page.educations %}
-    <div class="edu-entry d-flex align-items-center mb-4">
-      <div class="edu-icon mr-3">
-        {% assign entry_path = edu.icon | prepend: '/assets/img/' %}
-        {%
-          include figure.liquid
-          loading="eager"
-          path=entry_path
-          sizes = "50px"
-          class="preview z-depth-1 rounded"
-          zoomable=true
-        %}
-      </div>
-      <div class="edu-info">
-        <p class="mb-1"><strong>{{ edu.year }}</strong></p>
-        <p class="mb-0">{{ edu.title }}</p>
-      </div>
+{% for edu in page.educations %}
+  <div class="edu-entry d-flex align-items-center mb-4">
+    <div class="edu-icon mr-3">
+      {% assign entry_path = edu.icon | prepend: '/assets/img/' %}
+      {%
+        include figure.liquid
+        loading="eager"
+        path=entry_path
+        height = "50px"
+        class="preview z-depth-1 rounded"
+        zoomable=true
+      %}
     </div>
-  {% endfor %}
-</div>
+    <div class="edu-info">
+      <p class="mb-1"><strong>{{ edu.year }}</strong></p>
+      <p class="mb-0">{{ edu.title }}</p>
+    </div>
+  </div>
+{% endfor %}
+
