@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-one-journal-paper-on-stereo-matching-is-accepted-by-t-csvt",
+          title: '🌟 One journal paper on Stereo Matching is accepted by T-CSVT.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-one-paper-on-feedback-learning-in-vlm-is-accepted-by-neurips-2024",
+          title: '🌟 One paper on Feedback Learning in VLM is accepted by NeurIPS 2024....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-one-paper-on-multimodal-agent-tuning-is-accepted-by-iclr-2025-spotlight",
+          title: '🌟 One paper on Multimodal Agent Tuning is accepted by ICLR 2025 Spotlight....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
