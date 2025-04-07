@@ -3,7 +3,6 @@ layout: page
 title: Education
 permalink: /education/
 nav: false
-
 educations:
   - year: "2023 - Present"
     title: "Joint PhD Program with Beijing Institute for General Artificial Intelligence (BIGAI), China"
