@@ -1,22 +1,14 @@
----
-layout: page
----
 
-<div class="post">
-  <article>
-    <h2>Education</h2>
-    <div class="education-list">
-      {% for edu in page.educations %}
-        <div class="edu-entry d-flex align-items-center mb-4">
-          <div class="edu-icon mr-3">
-            <img src="{{ 'assets/img/' | append: edu.icon }}" alt="{{ edu.title }}" class="img-fluid rounded" style="width: 60px; height: 60px;">
-          </div>
-          <div class="edu-info">
-            <p class="mb-1"><strong>{{ edu.year }}</strong></p>
-            <p class="mb-0">{{ edu.title }}</p>
-          </div>
-        </div>
-      {% endfor %}
+<div class="education-list">
+  {% for edu in page.educations %}
+    <div class="edu-entry d-flex align-items-center mb-4">
+      <div class="edu-icon mr-3">
+        <img src="{{ 'assets/img/' | append: edu.icon }}" alt="{{ edu.title }}" class="img-fluid rounded" style="width: 60px; height: 60px;">
+      </div>
+      <div class="edu-info">
+        <p class="mb-1"><strong>{{ edu.year }}</strong></p>
+        <p class="mb-0">{{ edu.title }}</p>
+      </div>
     </div>
-  </article>
+  {% endfor %}
 </div>
