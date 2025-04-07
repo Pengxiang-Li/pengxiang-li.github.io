@@ -9,7 +9,8 @@ profile:
   image: pengxiang-li-1-1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><b>Email</b>:pengxiangli1999<code>[at]</code>gmail<code>[dot]</code>com</p>
+    <span style="font-size: smaller;"><p><b>Email</b>:pengxiangli1999<code>[at]</code>gmail<code>[dot]</code>com</p></span>
+    
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
