@@ -3,7 +3,6 @@ layout: education
 title: Education
 permalink: /education/
 nav: false
-collection: education
 
 educations:
   - year: "2023 - Present"
@@ -19,4 +18,4 @@ educations:
     title: "BSc in Computer Science, Beijing Institute of Technology (BIT), China"
     icon: "bit_logo.png"
 ---
-{% include news.liquid %}
+{% include education.liquid %}
