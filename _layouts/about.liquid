@@ -82,6 +82,16 @@ layout: default
       </div>
     {% endif %} {% endcomment %}
 
+    
+    <!-- Education -->
+    {% if page.education %}
+    <h2>
+      <a href="{{ '/education/' | relative_url }}" style="color: inherit">Education</a>
+    </h2>
+    {% include education.liquid %}
+    {% endif %}
+
+
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
     {% endif %}

@@ -1,26 +1,59 @@
 
-"zhang":
-  - firstname: ["Guoxi"]
-    url: https://guoxizhang.com/
+"brown":
+  - firstname: ["Matthew"]
+    url: https://mattabrown.github.io/
 
+"cai":
+  - firstname: ["Jianfei"]
+    url: https://jianfei-cai.github.io/
 
-"zhu":
-  - firstname: ["Song-Chun"]
-    url: http://www.stat.ucla.edu/~sczhu/
+"cui":
+  - firstname: ["Yin"]
+    url: https://ycui.me/
+
+"chen":
   - firstname: ["Yixin"]
-    url: https://yzhu.io/
-  - firstname: ["Ziyu"]
-    url: https://zhuziyu-edward.github.io/
+    url: https://yixchen.github.io/
 
-"wu":
-  - firstname: ["Rujie"]
-    url: https://joyjayng.github.io/
+"du":
+  - firstname: ["Yuntao"]
+    url: https://yuntaodu.github.io/
 
-  - firstname: ["Ying Nian"]
-    url: http://www.stat.ucla.edu/~ywu/
+"fang":
+  - firstname: ["Cong"]
+    url: https://congfang-ml.github.io/
 
-  - firstname: ["Yuwei"]
-    url: https://wu-yuwei-bit.github.io/
+"fu":
+  - firstname: ["Jianlong"]
+    url: https://jianlong-fu.github.io/
+
+"gao":
+  - firstname: ["Feng"]
+    url: https://fen9.github.io/
+  - firstname: ["Zhi"]
+    url: https://zhigao2017.github.io/
+
+"gong":
+  - firstname: ["Ran"]
+    url: https://nikepupu.github.io/
+  - firstname: ["Boqing"]
+    url: http://boqinggong.info/
+
+"gurari":
+  - firstname: ["Danna"]
+    url: https://dannagurari.colorado.edu/
+
+"han":
+  - firstname: ["Wenjuan"]
+    url: https://scholar.google.com/citations?user=rfVLLfAAAAAJ&hl=en
+
+"Harandi":
+  - firstname: ["Mehrtash"]
+    url: https://sites.google.com/site/mehrtashharandi/home?authuser=0
+
+"hong":
+  - firstname: ["Yining"]
+    url: https://evelinehong.github.io/
 
 "huang":
   - firstname: ["Jiangyong"]
@@ -40,12 +73,78 @@
   - firstname: ["Pengxiang"]
     url: https://pengxiang-li.github.io/
 
-"gao":
-  - firstname: ["Feng"]
-    url: https://fen9.github.io/
-  - firstname: ["Zhi"]
-    url: https://zhigao2017.github.io/
+"liang":
+  - firstname: ["Yitao"]
+    url: https://web.cs.ucla.edu/~yliang/
 
-"chen":
+"liu":
+  - firstname: ["Huaping"]
+    url: https://sites.google.com/site/thuliuhuaping/home
+  - firstname: ["Tengyu"]
+    url: https://tengyu.ai/
+
+"luo":
+  - firstname: ["Jiebo"]
+    url: http://www.cs.rochester.edu/u/jluo/
+  - firstname: ["Lirui"]
+    url: https://liruiluo.github.io/
+
+"ma":
+  - firstname: ["Xiaojian"]
+    url: https://jeasinema.github.io/
+
+"mei":
+  - firstname: ["Tao"]
+    url: https://taomei.me/
+
+"qiu":
+  - firstname: ["Zhaofan"]
+    url: http://zhaofanqiu.deepfun.club/
+
+"wang":
+  - firstname: ["Yizhou"]
+    url: https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm
+
+"wu":
+  - firstname: ["Rujie"]
+    url: https://joyjayng.github.io/
+
+  - firstname: ["Ying Nian"]
+    url: http://www.stat.ucla.edu/~ywu/
+
+  - firstname: ["Yuwei"]
+    url: https://wu-yuwei-bit.github.io/
+
+"xie":
+  - firstname: ["Sirui"]
+    url: https://siruixie.com/
+
+"yao":
+  - firstname: ["Ting"]
+    url: http://tingyao.deepfun.club/
+
+"yang":
+  - firstname: ["Ming-Hsuan"]
+    url: http://faculty.ucmerced.edu/mhyang/
+  - firstname: ["Yaodong"]
+    url: https://www.yangyaodong.com/
+
+"yong":
+  - firstname: ["Silong"]
+    url: https://silongyong.github.io/
+
+"zhang":
+  - firstname: ["Guoxi"]
+    url: https://guoxizhang.com/
+
+"zheng":
+  - firstname: ["Zilong"]
+    url: https://zilongzheng.github.io/
+
+"zhu":
+  - firstname: ["Song-Chun"]
+    url: http://www.stat.ucla.edu/~sczhu/
   - firstname: ["Yixin"]
-    url: https://yixchen.github.io/
+    url: https://yzhu.io/
+  - firstname: ["Ziyu"]
+    url: https://zhuziyu-edward.github.io/
