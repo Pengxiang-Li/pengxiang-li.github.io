@@ -3,7 +3,15 @@
   {% for edu in page.educations %}
     <div class="edu-entry d-flex align-items-center mb-4">
       <div class="edu-icon mr-3">
-        <img src="{{ 'assets/img/' | append: edu.icon }}" class="img-fluid rounded" style="width: 60px; height: 60px;">
+        {% assign entry_path = edu.icon | prepend: '/assets/img/' %}
+        {%
+          include figure.liquid
+          loading="eager"
+          path=entry_path
+          sizes = "50px"
+          class="preview z-depth-1 rounded"
+          zoomable=true
+        %}
       </div>
       <div class="edu-info">
         <p class="mb-1"><strong>{{ edu.year }}</strong></p>
