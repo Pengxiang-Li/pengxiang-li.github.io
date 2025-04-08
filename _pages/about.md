@@ -29,6 +29,21 @@ latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+educations:
+  - year: "2023 - Present"
+    title: "Joint PhD Program with Beijing Institute for General Artificial Intelligence (BIGAI), China"
+    icon: "bigai_logo.png"
+  - year: "2023 - Present"
+    title: "PhD student in Computer Science, Beijing Institute of Technology (BIT), China"
+    icon: "bit_logo.png"
+  - year: "2021 - 2023"
+    title: "MSc in Computer Science, Beijing Institute of Technology (BIT), China"
+    icon: "bit_logo.png"
+  - year: "2017 - 2021"
+    title: "BSc in Computer Science, Beijing Institute of Technology (BIT), China"
+    icon: "bit_logo.png"
+    
 ---
 
 I am a second-year PhD student in Beijing Institute of Technology (<a href="https://english.bit.edu.cn/" target="_blank">BIT</a>), advised by <a href="https://wu-yuwei-bit.github.io/" target="_blank">Dr. Yuwei Wu</a> and <a href="https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=en/" target="_blank">Dr. Yunde Jia</a>. I am also a member of the joint PhD program ('TONG Program') with Beijing Institute for General Artificial Intelligence (<a href="https://eng.bigai.ai/" target="_blank">BIGAI</a>), and I am grateful to be advised by <a href="https://liqing.io/" target="_blank">Dr. Qing Li</a> and <a href="https://zhigao2017.github.io/" target="_blank">Dr. Zhi Gao</a>. Previously, I got my Bachelor's degree in Computer Science and Technology from BIT in 2021.
