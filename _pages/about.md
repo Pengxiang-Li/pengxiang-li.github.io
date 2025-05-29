@@ -50,7 +50,7 @@ I am a second-year PhD student in Beijing Institute of Technology (<a href="http
 <br>
 My research interests lie in **Multimodal Agents**, **Non-Euclidean Optimization**, and **3DV Understanding**. Feel free to reach out if you are interested in my work! 🤝 
 
-Book a meeting with me [here](https://calendly.com/pengxiangli).
+Book a meeting with me via [Calendly](https://calendly.com/pengxiangli).
 
 
 

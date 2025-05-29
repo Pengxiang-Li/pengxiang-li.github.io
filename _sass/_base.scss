@@ -441,6 +441,11 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// WeChat icon specific styling to make it purple by default
+#WeChatBtn i::before {
+  color: var(--global-theme-color) !important;
+}
+
 .wechat-modal {
   display: none;
   position: fixed;
