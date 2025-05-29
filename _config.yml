@@ -197,6 +197,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - MacOS-Agent/
 keep_files:
   - CNAME
   - .nojekyll
