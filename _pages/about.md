@@ -48,5 +48,9 @@ educations:
 
 I am a second-year PhD student in Beijing Institute of Technology (<a href="https://english.bit.edu.cn/" target="_blank">BIT</a>), advised by <a href="https://wu-yuwei-bit.github.io/" target="_blank">Dr. Yuwei Wu</a> and <a href="https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=en/" target="_blank">Dr. Yunde Jia</a>. I am also a member of the joint PhD program ('TONG Program') with Beijing Institute for General Artificial Intelligence (<a href="https://eng.bigai.ai/" target="_blank">BIGAI</a>), and I am grateful to be advised by <a href="https://liqing.io/" target="_blank">Dr. Qing Li</a> and <a href="https://zhigao2017.github.io/" target="_blank">Dr. Zhi Gao</a>. Previously, I got my Bachelor's degree in Computer Science and Technology from BIT in 2021.
 <br>
-My research interests lie in **Multimodal Agents**, **Non-Euclidean Optimization**, and **3DV Understanding**. Feel free to reach out if you are interested in my work or have any questions! 🤝
+My research interests lie in **Multimodal Agents**, **Non-Euclidean Optimization**, and **3DV Understanding**. Feel free to reach out if you are interested in my work! 🤝 
+
+Book a meeting with me [here](https://calendly.com/pengxiangli).
+
+
 
