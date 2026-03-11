@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: pengxiang-li-1-1.jpg
+  image: pengxiang-li-2-2.jpg
   image_circular: false # crops the image to make it circular
   email: >
     <p><b>Email</b>: pengxiangli1999<code>[at]</code>gmail<code>[dot]</code>com</p>
