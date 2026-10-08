@@ -434,6 +434,13 @@ ninja.data = [{
           window.open("https://github.com/Pengxiang-Li", "_blank");
         },
       },{
+        id: 'social-alphaxiv_url',
+        title: 'Alphaxiv_url',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
