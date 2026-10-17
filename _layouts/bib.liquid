@@ -30,10 +30,16 @@
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
+          {% assign preview_ext = entry.preview | split: '.' | last | downcase %}
+          {% assign avoid_preview_scaling = false %}
+          {% if preview_ext == 'gif' %}
+            {% assign avoid_preview_scaling = true %}
+          {% endif %}
           {%
             include figure.liquid
             loading="eager"
             path=entry_path
+            avoid_scaling=avoid_preview_scaling
             sizes = "200px"
             class="preview z-depth-1 rounded"
             zoomable=true
